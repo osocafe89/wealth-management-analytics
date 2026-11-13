@@ -1,0 +1,221 @@
+Date,Rep Name,Type,Reason,Account,Location
+2025-01-01,Advisor A,Processing Loss,Processing adjustment reviewed,DEMO-1000,Northeast
+2025-02-12,Advisor F,Fee Adjustment,Fee correction requested,DEMO-1013,Southeast
+2025-03-23,Advisor K,Operational Reversal,Reversal entered for reconciliation,DEMO-1026,Midwest
+2025-04-07,Advisor D,Service Credit,Service credit documentation,DEMO-1039,West
+2025-05-18,Advisor I,Processing Loss,Processing adjustment reviewed,DEMO-1003,Northeast
+2025-06-02,Advisor B,Fee Adjustment,Fee correction requested,DEMO-1016,Southeast
+2025-07-13,Advisor G,Operational Reversal,Reversal entered for reconciliation,DEMO-1029,Midwest
+2025-08-24,Advisor L,Service Credit,Service credit documentation,DEMO-1042,West
+2025-09-08,Advisor E,Processing Loss,Processing adjustment reviewed,DEMO-1006,Southeast
+2025-10-19,Advisor J,Operational Reversal,Reversal entered for reconciliation,DEMO-1019,Midwest
+2025-11-03,Advisor C,Service Credit,Service credit documentation,DEMO-1032,West
+2025-12-14,Advisor H,Processing Loss,Processing adjustment reviewed,DEMO-1045,Northeast
+2026-01-25,Advisor A,Fee Adjustment,Fee correction requested,DEMO-1009,Southeast
+2026-02-09,Advisor F,Operational Reversal,Reversal entered for reconciliation,DEMO-1022,Midwest
+2026-03-20,Advisor K,Service Credit,Service credit documentation,DEMO-1035,West
+2026-04-04,Advisor D,Processing Loss,Processing adjustment reviewed,DEMO-1048,Northeast
+2026-05-15,Advisor I,Fee Adjustment,Fee correction requested,DEMO-1012,Midwest
+2026-06-26,Advisor B,Operational Reversal,Reversal entered for reconciliation,DEMO-1025,West
+2026-07-10,Advisor G,Processing Loss,Processing adjustment reviewed,DEMO-1038,Northeast
+2026-08-21,Advisor L,Fee Adjustment,Fee correction requested,DEMO-1002,Southeast
+2026-09-05,Advisor E,Operational Reversal,Reversal entered for reconciliation,DEMO-1015,Midwest
+2026-10-16,Advisor J,Service Credit,Service credit documentation,DEMO-1028,West
+2025-01-27,Advisor C,Processing Loss,Processing adjustment reviewed,DEMO-1041,Northeast
+2025-02-11,Advisor H,Fee Adjustment,Fee correction requested,DEMO-1005,Southeast
+2025-03-22,Advisor A,Operational Reversal,Reversal entered for reconciliation,DEMO-1018,West
+2025-04-06,Advisor F,Service Credit,Service credit documentation,DEMO-1031,Northeast
+2025-05-17,Advisor K,Processing Loss,Processing adjustment reviewed,DEMO-1044,Southeast
+2025-06-01,Advisor D,Operational Reversal,Reversal entered for reconciliation,DEMO-1008,Midwest
+2025-07-12,Advisor I,Service Credit,Service credit documentation,DEMO-1021,West
+2025-08-23,Advisor B,Processing Loss,Processing adjustment reviewed,DEMO-1034,Northeast
+2025-09-07,Advisor G,Fee Adjustment,Fee correction requested,DEMO-1047,Southeast
+2025-10-18,Advisor L,Operational Reversal,Reversal entered for reconciliation,DEMO-1011,Midwest
+2025-11-02,Advisor E,Service Credit,Service credit documentation,DEMO-1024,Northeast
+2025-12-13,Advisor J,Processing Loss,Processing adjustment reviewed,DEMO-1037,Southeast
+2026-01-24,Advisor C,Fee Adjustment,Fee correction requested,DEMO-1001,Midwest
+2026-02-08,Advisor H,Operational Reversal,Reversal entered for reconciliation,DEMO-1014,West
+2026-03-19,Advisor A,Processing Loss,Processing adjustment reviewed,DEMO-1027,Northeast
+2026-04-03,Advisor F,Fee Adjustment,Fee correction requested,DEMO-1040,Southeast
+2026-05-14,Advisor K,Operational Reversal,Reversal entered for reconciliation,DEMO-1004,Midwest
+2026-06-25,Advisor D,Service Credit,Service credit documentation,DEMO-1017,West
+2026-07-09,Advisor I,Processing Loss,Processing adjustment reviewed,DEMO-1030,Southeast
+2026-08-20,Advisor B,Fee Adjustment,Fee correction requested,DEMO-1043,Midwest
+2026-09-04,Advisor G,Operational Reversal,Reversal entered for reconciliation,DEMO-1007,West
+2026-10-15,Advisor L,Service Credit,Service credit documentation,DEMO-1020,Northeast
+2025-01-26,Advisor E,Processing Loss,Processing adjustment reviewed,DEMO-1033,Southeast
+2025-02-10,Advisor J,Operational Reversal,Reversal entered for reconciliation,DEMO-1046,Midwest
+2025-03-21,Advisor C,Service Credit,Service credit documentation,DEMO-1010,West
+2025-04-05,Advisor H,Processing Loss,Processing adjustment reviewed,DEMO-1023,Northeast
+2025-05-16,Advisor A,Fee Adjustment,Fee correction requested,DEMO-1036,Midwest
+2025-06-27,Advisor F,Operational Reversal,Reversal entered for reconciliation,DEMO-1000,West
+2025-07-11,Advisor K,Service Credit,Service credit documentation,DEMO-1013,Northeast
+2025-08-22,Advisor D,Processing Loss,Processing adjustment reviewed,DEMO-1026,Southeast
+2025-09-06,Advisor I,Fee Adjustment,Fee correction requested,DEMO-1039,Midwest
+2025-10-17,Advisor B,Operational Reversal,Reversal entered for reconciliation,DEMO-1003,West
+2025-11-01,Advisor G,Processing Loss,Processing adjustment reviewed,DEMO-1016,Northeast
+2025-12-12,Advisor L,Fee Adjustment,Fee correction requested,DEMO-1029,Southeast
+2026-01-23,Advisor E,Operational Reversal,Reversal entered for reconciliation,DEMO-1042,West
+2026-02-07,Advisor J,Service Credit,Service credit documentation,DEMO-1006,Northeast
+2026-03-18,Advisor C,Processing Loss,Processing adjustment reviewed,DEMO-1019,Southeast
+2026-04-02,Advisor H,Fee Adjustment,Fee correction requested,DEMO-1032,Midwest
+2026-05-13,Advisor A,Operational Reversal,Reversal entered for reconciliation,DEMO-1045,West
+2026-06-24,Advisor F,Service Credit,Service credit documentation,DEMO-1009,Northeast
+2026-07-08,Advisor K,Processing Loss,Processing adjustment reviewed,DEMO-1022,Southeast
+2026-08-19,Advisor D,Operational Reversal,Reversal entered for reconciliation,DEMO-1035,Midwest
+2026-09-03,Advisor I,Service Credit,Service credit documentation,DEMO-1048,Northeast
+2026-10-14,Advisor B,Processing Loss,Processing adjustment reviewed,DEMO-1012,Southeast
+2025-01-25,Advisor G,Fee Adjustment,Fee correction requested,DEMO-1025,Midwest
+2025-02-09,Advisor L,Operational Reversal,Reversal entered for reconciliation,DEMO-1038,West
+2025-03-20,Advisor E,Service Credit,Service credit documentation,DEMO-1002,Northeast
+2025-04-04,Advisor J,Processing Loss,Processing adjustment reviewed,DEMO-1015,Southeast
+2025-05-15,Advisor C,Fee Adjustment,Fee correction requested,DEMO-1028,Midwest
+2025-06-26,Advisor H,Operational Reversal,Reversal entered for reconciliation,DEMO-1041,West
+2025-07-10,Advisor A,Processing Loss,Processing adjustment reviewed,DEMO-1005,Southeast
+2025-08-21,Advisor F,Fee Adjustment,Fee correction requested,DEMO-1018,Midwest
+2025-09-05,Advisor K,Operational Reversal,Reversal entered for reconciliation,DEMO-1031,West
+2025-10-16,Advisor D,Service Credit,Service credit documentation,DEMO-1044,Northeast
+2025-11-27,Advisor I,Processing Loss,Processing adjustment reviewed,DEMO-1008,Southeast
+2025-12-11,Advisor B,Fee Adjustment,Fee correction requested,DEMO-1021,Midwest
+2026-01-22,Advisor G,Operational Reversal,Reversal entered for reconciliation,DEMO-1034,West
+2026-02-06,Advisor L,Service Credit,Service credit documentation,DEMO-1047,Northeast
+2026-03-17,Advisor E,Processing Loss,Processing adjustment reviewed,DEMO-1011,Midwest
+2026-04-01,Advisor J,Operational Reversal,Reversal entered for reconciliation,DEMO-1024,West
+2026-05-12,Advisor C,Service Credit,Service credit documentation,DEMO-1037,Northeast
+2026-06-23,Advisor H,Processing Loss,Processing adjustment reviewed,DEMO-1001,Southeast
+2026-07-07,Advisor A,Fee Adjustment,Fee correction requested,DEMO-1014,Midwest
+2026-08-18,Advisor F,Operational Reversal,Reversal entered for reconciliation,DEMO-1027,West
+2026-09-02,Advisor K,Service Credit,Service credit documentation,DEMO-1040,Northeast
+2026-10-13,Advisor D,Processing Loss,Processing adjustment reviewed,DEMO-1004,Southeast
+2025-01-24,Advisor I,Fee Adjustment,Fee correction requested,DEMO-1017,West
+2025-02-08,Advisor B,Operational Reversal,Reversal entered for reconciliation,DEMO-1030,Northeast
+2025-03-19,Advisor G,Processing Loss,Processing adjustment reviewed,DEMO-1043,Southeast
+2025-04-03,Advisor L,Fee Adjustment,Fee correction requested,DEMO-1007,Midwest
+2025-05-14,Advisor E,Operational Reversal,Reversal entered for reconciliation,DEMO-1020,West
+2025-06-25,Advisor J,Service Credit,Service credit documentation,DEMO-1033,Northeast
+2025-07-09,Advisor C,Processing Loss,Processing adjustment reviewed,DEMO-1046,Southeast
+2025-08-20,Advisor H,Fee Adjustment,Fee correction requested,DEMO-1010,Midwest
+2025-09-04,Advisor A,Operational Reversal,Reversal entered for reconciliation,DEMO-1023,Northeast
+2025-10-15,Advisor F,Service Credit,Service credit documentation,DEMO-1036,Southeast
+2025-11-26,Advisor K,Processing Loss,Processing adjustment reviewed,DEMO-1000,Midwest
+2025-12-10,Advisor D,Operational Reversal,Reversal entered for reconciliation,DEMO-1013,West
+2026-01-21,Advisor I,Service Credit,Service credit documentation,DEMO-1026,Northeast
+2026-02-05,Advisor B,Processing Loss,Processing adjustment reviewed,DEMO-1039,Southeast
+2026-03-16,Advisor G,Fee Adjustment,Fee correction requested,DEMO-1003,Midwest
+2026-04-27,Advisor L,Operational Reversal,Reversal entered for reconciliation,DEMO-1016,West
+2026-05-11,Advisor E,Service Credit,Service credit documentation,DEMO-1029,Southeast
+2026-06-22,Advisor J,Processing Loss,Processing adjustment reviewed,DEMO-1042,Midwest
+2026-07-06,Advisor C,Fee Adjustment,Fee correction requested,DEMO-1006,West
+2026-08-17,Advisor H,Operational Reversal,Reversal entered for reconciliation,DEMO-1019,Northeast
+2026-09-01,Advisor A,Processing Loss,Processing adjustment reviewed,DEMO-1032,Southeast
+2026-10-12,Advisor F,Fee Adjustment,Fee correction requested,DEMO-1045,Midwest
+2025-01-23,Advisor K,Operational Reversal,Reversal entered for reconciliation,DEMO-1009,West
+2025-02-07,Advisor D,Service Credit,Service credit documentation,DEMO-1022,Northeast
+2025-03-18,Advisor I,Processing Loss,Processing adjustment reviewed,DEMO-1035,Midwest
+2025-04-02,Advisor B,Fee Adjustment,Fee correction requested,DEMO-1048,West
+2025-05-13,Advisor G,Operational Reversal,Reversal entered for reconciliation,DEMO-1012,Northeast
+2025-06-24,Advisor L,Service Credit,Service credit documentation,DEMO-1025,Southeast
+2025-07-08,Advisor E,Processing Loss,Processing adjustment reviewed,DEMO-1038,Midwest
+2025-08-19,Advisor J,Operational Reversal,Reversal entered for reconciliation,DEMO-1002,West
+2025-09-03,Advisor C,Service Credit,Service credit documentation,DEMO-1015,Northeast
+2025-10-14,Advisor H,Processing Loss,Processing adjustment reviewed,DEMO-1028,Southeast
+2025-11-25,Advisor A,Fee Adjustment,Fee correction requested,DEMO-1041,West
+2025-12-09,Advisor F,Operational Reversal,Reversal entered for reconciliation,DEMO-1005,Northeast
+2026-01-20,Advisor K,Service Credit,Service credit documentation,DEMO-1018,Southeast
+2026-02-04,Advisor D,Processing Loss,Processing adjustment reviewed,DEMO-1031,Midwest
+2026-03-15,Advisor I,Fee Adjustment,Fee correction requested,DEMO-1044,West
+2026-04-26,Advisor B,Operational Reversal,Reversal entered for reconciliation,DEMO-1008,Northeast
+2026-05-10,Advisor G,Processing Loss,Processing adjustment reviewed,DEMO-1021,Southeast
+2026-06-21,Advisor L,Fee Adjustment,Fee correction requested,DEMO-1034,Midwest
+2026-07-05,Advisor E,Operational Reversal,Reversal entered for reconciliation,DEMO-1047,Northeast
+2026-08-16,Advisor J,Service Credit,Service credit documentation,DEMO-1011,Southeast
+2026-09-27,Advisor C,Processing Loss,Processing adjustment reviewed,DEMO-1024,Midwest
+2026-10-11,Advisor H,Fee Adjustment,Fee correction requested,DEMO-1037,West
+2025-01-22,Advisor A,Operational Reversal,Reversal entered for reconciliation,DEMO-1001,Northeast
+2025-02-06,Advisor F,Service Credit,Service credit documentation,DEMO-1014,Southeast
+2025-03-17,Advisor K,Processing Loss,Processing adjustment reviewed,DEMO-1027,Midwest
+2025-04-01,Advisor D,Operational Reversal,Reversal entered for reconciliation,DEMO-1040,West
+2025-05-12,Advisor I,Service Credit,Service credit documentation,DEMO-1004,Southeast
+2025-06-23,Advisor B,Processing Loss,Processing adjustment reviewed,DEMO-1017,Midwest
+2025-07-07,Advisor G,Fee Adjustment,Fee correction requested,DEMO-1030,West
+2025-08-18,Advisor L,Operational Reversal,Reversal entered for reconciliation,DEMO-1043,Northeast
+2025-09-02,Advisor E,Service Credit,Service credit documentation,DEMO-1007,Southeast
+2025-10-13,Advisor J,Processing Loss,Processing adjustment reviewed,DEMO-1020,Midwest
+2025-11-24,Advisor C,Fee Adjustment,Fee correction requested,DEMO-1033,West
+2025-12-08,Advisor H,Operational Reversal,Reversal entered for reconciliation,DEMO-1046,Northeast
+2026-01-19,Advisor A,Processing Loss,Processing adjustment reviewed,DEMO-1010,Midwest
+2026-02-03,Advisor F,Fee Adjustment,Fee correction requested,DEMO-1023,West
+2026-03-14,Advisor K,Operational Reversal,Reversal entered for reconciliation,DEMO-1036,Northeast
+2026-04-25,Advisor D,Service Credit,Service credit documentation,DEMO-1000,Southeast
+2026-05-09,Advisor I,Processing Loss,Processing adjustment reviewed,DEMO-1013,Midwest
+2026-06-20,Advisor B,Fee Adjustment,Fee correction requested,DEMO-1026,West
+2026-07-04,Advisor G,Operational Reversal,Reversal entered for reconciliation,DEMO-1039,Northeast
+2026-08-15,Advisor L,Service Credit,Service credit documentation,DEMO-1003,Southeast
+2026-09-26,Advisor E,Processing Loss,Processing adjustment reviewed,DEMO-1016,West
+2026-10-10,Advisor J,Operational Reversal,Reversal entered for reconciliation,DEMO-1029,Northeast
+2025-01-21,Advisor C,Service Credit,Service credit documentation,DEMO-1042,Southeast
+2025-02-05,Advisor H,Processing Loss,Processing adjustment reviewed,DEMO-1006,Midwest
+2025-03-16,Advisor A,Fee Adjustment,Fee correction requested,DEMO-1019,West
+2025-04-27,Advisor F,Operational Reversal,Reversal entered for reconciliation,DEMO-1032,Northeast
+2025-05-11,Advisor K,Service Credit,Service credit documentation,DEMO-1045,Southeast
+2025-06-22,Advisor D,Processing Loss,Processing adjustment reviewed,DEMO-1009,Midwest
+2025-07-06,Advisor I,Fee Adjustment,Fee correction requested,DEMO-1022,Northeast
+2025-08-17,Advisor B,Operational Reversal,Reversal entered for reconciliation,DEMO-1035,Southeast
+2025-09-01,Advisor G,Processing Loss,Processing adjustment reviewed,DEMO-1048,Midwest
+2025-10-12,Advisor L,Fee Adjustment,Fee correction requested,DEMO-1012,West
+2025-11-23,Advisor E,Operational Reversal,Reversal entered for reconciliation,DEMO-1025,Northeast
+2025-12-07,Advisor J,Service Credit,Service credit documentation,DEMO-1038,Southeast
+2026-01-18,Advisor C,Processing Loss,Processing adjustment reviewed,DEMO-1002,Midwest
+2026-02-02,Advisor H,Fee Adjustment,Fee correction requested,DEMO-1015,West
+2026-03-13,Advisor A,Operational Reversal,Reversal entered for reconciliation,DEMO-1028,Southeast
+2026-04-24,Advisor F,Service Credit,Service credit documentation,DEMO-1041,Midwest
+2026-05-08,Advisor K,Processing Loss,Processing adjustment reviewed,DEMO-1005,West
+2026-06-19,Advisor D,Operational Reversal,Reversal entered for reconciliation,DEMO-1018,Northeast
+2026-07-03,Advisor I,Service Credit,Service credit documentation,DEMO-1031,Southeast
+2026-08-14,Advisor B,Processing Loss,Processing adjustment reviewed,DEMO-1044,Midwest
+2026-09-25,Advisor G,Fee Adjustment,Fee correction requested,DEMO-1008,West
+2026-10-09,Advisor L,Operational Reversal,Reversal entered for reconciliation,DEMO-1021,Northeast
+2025-01-20,Advisor E,Service Credit,Service credit documentation,DEMO-1034,Midwest
+2025-02-04,Advisor J,Processing Loss,Processing adjustment reviewed,DEMO-1047,West
+2025-03-15,Advisor C,Fee Adjustment,Fee correction requested,DEMO-1011,Northeast
+2025-04-26,Advisor H,Operational Reversal,Reversal entered for reconciliation,DEMO-1024,Southeast
+2025-05-10,Advisor A,Processing Loss,Processing adjustment reviewed,DEMO-1037,Midwest
+2025-06-21,Advisor F,Fee Adjustment,Fee correction requested,DEMO-1001,West
+2025-07-05,Advisor K,Operational Reversal,Reversal entered for reconciliation,DEMO-1014,Northeast
+2025-08-16,Advisor D,Service Credit,Service credit documentation,DEMO-1027,Southeast
+2025-09-27,Advisor I,Processing Loss,Processing adjustment reviewed,DEMO-1040,West
+2025-10-11,Advisor B,Fee Adjustment,Fee correction requested,DEMO-1004,Northeast
+2025-11-22,Advisor G,Operational Reversal,Reversal entered for reconciliation,DEMO-1017,Southeast
+2025-12-06,Advisor L,Service Credit,Service credit documentation,DEMO-1030,Midwest
+2026-01-17,Advisor E,Processing Loss,Processing adjustment reviewed,DEMO-1043,West
+2026-02-01,Advisor J,Operational Reversal,Reversal entered for reconciliation,DEMO-1007,Northeast
+2026-03-12,Advisor C,Service Credit,Service credit documentation,DEMO-1020,Southeast
+2026-04-23,Advisor H,Processing Loss,Processing adjustment reviewed,DEMO-1033,Midwest
+2026-05-07,Advisor A,Fee Adjustment,Fee correction requested,DEMO-1046,Northeast
+2026-06-18,Advisor F,Operational Reversal,Reversal entered for reconciliation,DEMO-1010,Southeast
+2026-07-02,Advisor K,Service Credit,Service credit documentation,DEMO-1023,Midwest
+2026-08-13,Advisor D,Processing Loss,Processing adjustment reviewed,DEMO-1036,West
+2026-09-24,Advisor I,Fee Adjustment,Fee correction requested,DEMO-1000,Northeast
+2026-10-08,Advisor B,Operational Reversal,Reversal entered for reconciliation,DEMO-1013,Southeast
+2025-01-19,Advisor G,Processing Loss,Processing adjustment reviewed,DEMO-1026,Midwest
+2025-02-03,Advisor L,Fee Adjustment,Fee correction requested,DEMO-1039,West
+2025-03-14,Advisor E,Operational Reversal,Reversal entered for reconciliation,DEMO-1003,Southeast
+2025-04-25,Advisor J,Service Credit,Service credit documentation,DEMO-1016,Midwest
+2025-05-09,Advisor C,Processing Loss,Processing adjustment reviewed,DEMO-1029,West
+2025-06-20,Advisor H,Fee Adjustment,Fee correction requested,DEMO-1042,Northeast
+2025-07-04,Advisor A,Operational Reversal,Reversal entered for reconciliation,DEMO-1006,Southeast
+2025-08-15,Advisor F,Service Credit,Service credit documentation,DEMO-1019,Midwest
+2025-09-26,Advisor K,Processing Loss,Processing adjustment reviewed,DEMO-1032,West
+2025-10-10,Advisor D,Operational Reversal,Reversal entered for reconciliation,DEMO-1045,Northeast
+2025-11-21,Advisor I,Service Credit,Service credit documentation,DEMO-1009,Midwest
+2025-12-05,Advisor B,Processing Loss,Processing adjustment reviewed,DEMO-1022,West
+2026-01-16,Advisor G,Fee Adjustment,Fee correction requested,DEMO-1035,Northeast
+2026-02-27,Advisor L,Operational Reversal,Reversal entered for reconciliation,DEMO-1048,Southeast
+2026-03-11,Advisor E,Service Credit,Service credit documentation,DEMO-1012,Midwest
+2026-04-22,Advisor J,Processing Loss,Processing adjustment reviewed,DEMO-1025,West
+2026-05-06,Advisor C,Fee Adjustment,Fee correction requested,DEMO-1038,Northeast
+2026-06-17,Advisor H,Operational Reversal,Reversal entered for reconciliation,DEMO-1002,Southeast
+2026-07-01,Advisor A,Processing Loss,Processing adjustment reviewed,DEMO-1015,West
+2026-08-12,Advisor F,Fee Adjustment,Fee correction requested,DEMO-1028,Northeast
+2026-09-23,Advisor K,Operational Reversal,Reversal entered for reconciliation,DEMO-1041,Southeast
+2026-10-07,Advisor D,Service Credit,Service credit documentation,DEMO-1005,Midwest
